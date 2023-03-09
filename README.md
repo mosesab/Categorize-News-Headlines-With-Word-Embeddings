@@ -1,4 +1,4 @@
-# Generate-Article-With-OpenAI-API
+# Generate Article With OpenAI API
 
 Required Library:
 openai 0.25.0
