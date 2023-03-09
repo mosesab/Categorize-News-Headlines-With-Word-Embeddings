@@ -1,14 +1,11 @@
-# Generate Article With OpenAI API
-
-Required Library:
-openai 0.25.0
-
-A simple project that demonstrates how to generate a large volume of text like an article or blog using an AI model from OpenAI's API powered by GPT-3.
+# Categorize News Headlines With Word Embeddings
 
 
-The below link 🔗 is to a website that gives the general procedure for working with OpenAI's API to generate large text:
 
-https://www.codedex.io/projects/generate-a-blog-with-openai
 
+
+A simple project that creates a dataset of News Headlines with Primary Category, Secondary Category, Date, Day, Month,Year, Sentiment, SentimentPolarity, Emotion and Url. 
+
+All News Headlines are scraped from punch newspaper and sorted into a csv file.
 
 
